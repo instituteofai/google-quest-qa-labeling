@@ -10,5 +10,7 @@
 
 
 ### Resources
-**Using BERT**
-SQuAD (Standford Question Answering Dataset) to play with: https://rajpurkar.github.io/SQuAD-explorer/
+ - SQuAD (Standford Question Answering Dataset): https://rajpurkar.github.io/SQuAD-explorer/
+ - TRANSFORMERS FROM SCRATCH: http://www.peterbloem.nl/blog/transformers
+ - The annotated Transformer: https://nlp.seas.harvard.edu/2018/04/03/attention.html
+
