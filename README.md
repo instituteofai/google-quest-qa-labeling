@@ -10,5 +10,5 @@
 
 
 ### Resources
-**BERT**
-Dataset to play with: https://rajpurkar.github.io/SQuAD-explorer/
+**Using BERT**
+SQuAD (Standford Question Answering Dataset) to play with: https://rajpurkar.github.io/SQuAD-explorer/
