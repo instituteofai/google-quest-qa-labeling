@@ -8,6 +8,9 @@
  - https://www.kaggle.com/phoenix9032/get-started-with-your-questions-eda-model-nn
  - https://www.kaggle.com/hamditarek/get-started-with-nlp-lda-lsa/notebook
 
+### Transfer Learning using BERT
+ - https://www.kaggle.com/akensert/bert-base-tf2-0-minimalistic
+
 
 ### Resources
  - SQuAD (Standford Question Answering Dataset): https://rajpurkar.github.io/SQuAD-explorer/
